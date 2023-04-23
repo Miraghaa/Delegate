@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\CustomListApp\CustomList.Data\bin\Debug\net6.0\CustomList.Data.deps.json
+C:\Users\USER\source\repos\CustomListApp\CustomList.Data\bin\Debug\net6.0\CustomList.Data.dll
+C:\Users\USER\source\repos\CustomListApp\CustomList.Data\bin\Debug\net6.0\CustomList.Data.pdb
+C:\Users\USER\source\repos\CustomListApp\CustomList.Data\bin\Debug\net6.0\CustomList.Core.dll
+C:\Users\USER\source\repos\CustomListApp\CustomList.Data\bin\Debug\net6.0\CustomList.Core.pdb
+C:\Users\USER\source\repos\CustomListApp\CustomList.Data\obj\Debug\net6.0\CustomList.Data.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CustomListApp\CustomList.Data\obj\Debug\net6.0\CustomList.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\CustomListApp\CustomList.Data\obj\Debug\net6.0\CustomList.Data.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CustomListApp\CustomList.Data\obj\Debug\net6.0\CustomList.Data.AssemblyInfo.cs
+C:\Users\USER\source\repos\CustomListApp\CustomList.Data\obj\Debug\net6.0\CustomList.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CustomListApp\CustomList.Data\obj\Debug\net6.0\CustomList.Data.csproj.CopyComplete
+C:\Users\USER\source\repos\CustomListApp\CustomList.Data\obj\Debug\net6.0\CustomList.Data.dll
+C:\Users\USER\source\repos\CustomListApp\CustomList.Data\obj\Debug\net6.0\refint\CustomList.Data.dll
+C:\Users\USER\source\repos\CustomListApp\CustomList.Data\obj\Debug\net6.0\CustomList.Data.pdb
+C:\Users\USER\source\repos\CustomListApp\CustomList.Data\obj\Debug\net6.0\ref\CustomList.Data.dll
